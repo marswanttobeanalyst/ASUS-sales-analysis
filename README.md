@@ -1,4 +1,4 @@
-# ASUS-sales-analysis-
+# ASUS-sales-analysis
 
 ## Dataset
 
